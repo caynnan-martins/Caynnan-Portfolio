@@ -124,7 +124,7 @@ export default function Home() {
         </div>
         <div className="mt-3 sm:pe-8">
             <h3 className="text-lg font-semibold text-gray-900 dark:text-white">Design</h3>
-            <time className="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">Setembro 2019</time>
+            <time className="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">Janeiro 2024</time>
             <p className="text-base font-normal text-gray-500 dark:text-gray-400">Me tornei Designer em 2024, fiz alguns cursos até ficar bom.</p>
         </div>
     </li>
