@@ -24,10 +24,10 @@ const projects = [
   },
   {
     id: 4,
-    title: "AnimesGG",
+    title: "AnimesFlow",
     description: "A plataforma de animes é um projeto que desenvolvi em equipe, utilizando Node.js e React com Tailwind CSS, apresentando um design moderno e responsivo, além de uma API robusta para gerenciar informações e interações dos usuários.",
-    imageUrl: "https://i.imgur.com/tRJNjZi.png",
-    link: "#",
+    imageUrl: "blob:https://imgur.com/52ff88e7-3be1-4c49-bae3-633d87e87850",
+    link: "https://www.animesflow.site/",
   },
 ];
 
