@@ -26,7 +26,7 @@ const projects = [
     id: 4,
     title: "AnimesGG",
     description: "A plataforma de animes é um projeto que desenvolvi em equipe, utilizando Node.js e React com Tailwind CSS, apresentando um design moderno e responsivo, além de uma API robusta para gerenciar informações e interações dos usuários.",
-    imageUrl: "./public/animes.PNG",
+    imageUrl: "https://drive.google.com/file/d/1xAfm8MVjm4EiFstndts0V-NdyBWl9WDy/view?usp=sharing",
     link: "#",
   },
 ];
