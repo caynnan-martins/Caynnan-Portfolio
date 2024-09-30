@@ -145,7 +145,7 @@ export default function Home() {
                 Eu
             </a>
             <h1 className="text-gray-900 dark:text-white text-3xl md:text-5xl font-extrabold mb-2">Saiba Mais Sobre Mim</h1>
-            <p className="text-lg font-normal text-gray-500 dark:text-gray-400 mb-6">Olá! Meu nome é Caynnan, tenho 17 anos e sou um programador fullstack apaixonado por tecnologia. e estou sempre buscando novas maneiras de melhorar minhas habilidades e contribuir com soluções inovadoras no mundo da programação.</p>
+            <p className="text-lg font-normal text-gray-500 dark:text-gray-400 mb-6">Olá! Meu nome é Caynnan, tenho 17 anos e sou um programador fullstack apaixonado por tecnologia. Estou sempre em busca de novas maneiras de aprimorar minhas habilidades e contribuir com soluções inovadoras no mundo da programação. Atualmente, estou cursando a graduação em Análise e Desenvolvimento de Sistemas, o que me permite aprofundar meus conhecimentos e aplicar as melhores práticas no desenvolvimento de software.</p>
         </div>
         <div className="grid md:grid-cols-2 gap-8">
             <div className="bg-gray-50 dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-lg p-8 md:p-12">
@@ -172,12 +172,91 @@ export default function Home() {
     </div>
 </section>
 
+<div class="bg-white dark:bg-[#141e27] min-h-screen flex justify-center items-center">
+  <div class="w-11/12 md:w-8/12 lg:w-6/12 py-8">
+    <h1 class="text-3xl text-center font-bold text-gray-800 dark:text-white mb-10">Linha do Tempo de Linguagens</h1>
+    
+    <div class="relative border-l border-gray-300 dark:border-gray-700">
+
+      <div class="mb-10 ml-4">
+        <div class="absolute w-8 h-8 bg-orange-500 rounded-full mt-1.5 -left-4 flex items-center justify-center">
+          <i class='bx bxl-html5 text-white text-2xl'></i>
+        </div>
+        <h3 class="text-lg font-semibold text-gray-800 dark:text-white">HTML</h3>
+        <p class="text-gray-600 dark:text-gray-300">Linguagem de marcação utilizada para construir páginas web</p>
+      </div>
+
+      <div class="mb-10 ml-4">
+        <div class="absolute w-8 h-8 bg-blue-600 rounded-full mt-1.5 -left-4 flex items-center justify-center">
+          <i class='bx bxl-css3 text-white text-2xl'></i>
+        </div>
+        <h3 class="text-lg font-semibold text-gray-800 dark:text-white">CSS</h3>
+        <p class="text-gray-600 dark:text-gray-300">Linguagem de estilo utilizada para personalizar a aparência das páginas web</p>
+      </div>
+
+      <div class="mb-10 ml-4">
+        <div class="absolute w-8 h-8 bg-teal-500 rounded-full mt-1.5 -left-4 flex items-center justify-center">
+          <i class='bx bxl-tailwind-css text-white text-2xl'></i>
+        </div>
+        <h3 class="text-lg font-semibold text-gray-800 dark:text-white">Tailwind CSS</h3>
+        <p class="text-gray-600 dark:text-gray-300">Um framework de CSS utilitário para criar layouts de forma rápida e responsiva</p>
+      </div>
+
+      <div class="mb-10 ml-4">
+        <div class="absolute w-8 h-8 bg-blue-500 rounded-full mt-1.5 -left-4 flex items-center justify-center">
+          <i class='bx bxl-react text-white text-2xl'></i>
+        </div>
+        <h3 class="text-lg font-semibold text-gray-800 dark:text-white">React</h3>
+        <p class="text-gray-600 dark:text-gray-300">Uma biblioteca JavaScript para construir interfaces de usuário</p>
+      </div>
+
+      <div class="mb-10 ml-4">
+        <div class="absolute w-8 h-8 bg-blue-400 rounded-full mt-1.5 -left-4 flex items-center justify-center">
+          <i class='bx bxl-nodejs text-white text-2xl'></i>
+        </div>
+        <h3 class="text-lg font-semibold text-gray-800 dark:text-white">Node.js</h3>
+        <p class="text-gray-600 dark:text-gray-300">Um ambiente de execução JavaScript baseado no motor V8 do Chrome</p>
+      </div>
+
+      <div class="mb-10 ml-4">
+        <div class="absolute w-8 h-8 bg-red-600 rounded-full mt-1.5 -left-4 flex items-center justify-center">
+          <i class='bx bxl-c-plus-plus text-white text-2xl'></i>
+        </div>
+        <h3 class="text-lg font-semibold text-gray-800 dark:text-white">C++</h3>
+        <p class="text-gray-600 dark:text-gray-300">Uma linguagem de programação de propósito geral criada por Bjarne Stroustrup</p>
+      </div>
+
+      <div class="mb-10 ml-4">
+        <div class="absolute w-8 h-8 bg-yellow-500 rounded-full mt-1.5 -left-4 flex items-center justify-center">
+          <i class='bx bxl-javascript text-white text-2xl'></i>
+        </div>
+        <h3 class="text-lg font-semibold text-gray-800 dark:text-white">JavaScript</h3>
+        <p class="text-gray-600 dark:text-gray-300">Uma linguagem de programação que permite a criação de interatividade em páginas web</p>
+      </div>
+
+      <div class="mb-10 ml-4">
+        <div class="absolute w-8 h-8 bg-green-500 rounded-full mt-1.5 -left-4 flex items-center justify-center">
+          <i class='bx bxl-python text-white text-2xl'></i>
+        </div>
+        <h3 class="text-lg font-semibold text-gray-800 dark:text-white">Python</h3>
+        <p class="text-gray-600 dark:text-gray-300">Uma linguagem de programação de alto nível e fácil de aprender, muito utilizada em ciência de dados, automação e desenvolvimento web</p>
+      </div>
+
+      <div class="mb-10 ml-4">
+        <div class="absolute w-8 h-8 bg-blue-600 rounded-full mt-1.5 -left-4 flex items-center justify-center">
+          <i class='bx bxl-java text-white text-2xl'></i>
+        </div>
+        <h3 class="text-lg font-semibold text-gray-800 dark:text-white">Java</h3>
+        <p class="text-gray-600 dark:text-gray-300">Uma linguagem de programação orientada a objetos de alto nível, amplamente utilizada no desenvolvimento de aplicativos corporativos e móveis</p>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+
+
  <SecaoAvaliacoes/>
-
-
-
-
-
 
         <Footer />
         </main>
