@@ -27,7 +27,7 @@ export default function Home() {
                     
                 </p>
                 <div>
-                    <a href="wa.me/17992700548" className="bg-[#3f80f8] p-3 rounded-md text-white">WhatsApp</a>
+                    <a href="https://wa.me/17992700548" className="bg-[#3f80f8] p-3 rounded-md text-white">WhatsApp</a>
                 </div>
             </div>
             <div className="lg:w-1/2">
