@@ -5,7 +5,7 @@ import ProjectsSection from "../../Components/App/Projects";
 import { ToastContainer, toast } from "react-toastify";
 import { useEffect } from "react";
 import SecaoAvaliacoes from "../../Components/App/Avaliacoes";
-
+import Email from '../../Components/App/Email'
 export default function Home() {
     return (
         <main>
@@ -254,7 +254,7 @@ export default function Home() {
   </div>
 </div>
 
-
+<Email />
 
  <SecaoAvaliacoes/>
 
