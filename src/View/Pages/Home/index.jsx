@@ -145,7 +145,7 @@ export default function Home() {
                 Eu
             </a>
             <h1 className="text-gray-900 dark:text-white text-3xl md:text-5xl font-extrabold mb-2">Saiba Mais Sobre Mim</h1>
-            <p className="text-lg font-normal text-gray-500 dark:text-gray-400 mb-6">Olá! Meu nome é Caynnan, tenho 17 anos e sou um programador fullstack apaixonado por tecnologia. Estou sempre em busca de novas maneiras de aprimorar minhas habilidades e contribuir com soluções inovadoras no mundo da programação. Atualmente, estou cursando a <span className="mark">Graduação em Análise e Desenvolvimento de Sistemas</span>, o que me permite aprofundar meus conhecimentos e aplicar as melhores práticas no desenvolvimento de software.</p>
+            <p className="text-lg font-normal text-gray-500 dark:text-gray-400 mb-6">Olá! Meu nome é Caynnan, tenho 18 anos e sou um programador fullstack apaixonado por tecnologia. Estou sempre em busca de novas maneiras de aprimorar minhas habilidades e contribuir com soluções inovadoras no mundo da programação. Atualmente, estou cursando a <span className="mark">Graduação em Análise e Desenvolvimento de Sistemas</span>, o que me permite aprofundar meus conhecimentos e aplicar as melhores práticas no desenvolvimento de software.</p>
         </div>
         <div className="grid md:grid-cols-2 gap-8">
             <div className="bg-gray-50 dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-lg p-8 md:p-12">
