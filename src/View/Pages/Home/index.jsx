@@ -95,7 +95,7 @@ export default function Home() {
         <div className="mt-3 sm:pe-8">
             <h3 className="text-lg font-semibold text-gray-900 dark:text-white">Back-End</h3>
             <time className="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">Setembro 2016</time>
-            <p className="text-base font-normal text-gray-500 dark:text-gray-400">Comecei a estudar BackEnd em 2016 e já atuei em alguns projetos</p>
+            <p className="text-base font-normal text-gray-500 dark:text-gray-400">Desde 2016, venho me dedicando ao estudo de Back-End, acumulando experiência em diversos projetos que me permitiram aplicar e aprimorar meus conhecimentos na área.</p>
         </div>
     </li>
     <li className="relative mb-6 sm:mb-0">
@@ -110,7 +110,7 @@ export default function Home() {
         <div className="mt-3 sm:pe-8">
             <h3 className="text-lg font-semibold text-gray-900 dark:text-white">Front-End</h3>
             <time className="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">Dezembro 2016</time>
-            <p className="text-base font-normal text-gray-500 dark:text-gray-400">Comecei a estudar FrontEnd em 2016 e já atuei em alguns projetos</p>
+            <p className="text-base font-normal text-gray-500 dark:text-gray-400">Desde 2016, tenho me aprofundado no estudo de Front-End, participando de diversos projetos que me ajudaram a consolidar habilidades práticas e a expandir meus conhecimentos na área.</p>
         </div>
     </li>
     <li className="relative mb-6 sm:mb-0">
@@ -125,7 +125,7 @@ export default function Home() {
         <div className="mt-3 sm:pe-8">
             <h3 className="text-lg font-semibold text-gray-900 dark:text-white">Design</h3>
             <time className="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">Janeiro 2024</time>
-            <p className="text-base font-normal text-gray-500 dark:text-gray-400">Me tornei Designer em 2024, fiz alguns cursos até ficar bom.</p>
+            <p className="text-base font-normal text-gray-500 dark:text-gray-400">Em 2024, me tornei Designer após me dedicar a diversos cursos e treinamentos, adquirindo as habilidades necessárias para atuar com excelência na área.</p>
         </div>
     </li>
 </ol>
