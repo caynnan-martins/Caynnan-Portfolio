@@ -12,8 +12,8 @@ const avaliacoes = [
     },
     {
       id: 2,
-      nome: "Lucas Pereira",
-      cargo: "Engenheiro de Software",
+      nome: "Luciana Pereira",
+      cargo: "Engenheira de Software",
       avaliacao: "Design moderno e excelente performance",
       descricao: "O layout moderno, combinado com o carregamento rápido das páginas, faz com que o produto se destaque. A estrutura do código é impecável, utilizando as linguagens mais recentes, o que proporciona uma experiência ágil e sem interrupções.",
       imagem: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/bonnie-green.png",
@@ -21,7 +21,7 @@ const avaliacoes = [
     },
     {
       id: 3,
-      nome: "Mariana Santos",
+      nome: "Mariano Santos",
       cargo: "Desenvolvedora Frontend",
       avaliacao: "Fácil de navegar e eficiente",
       descricao: "A experiência de navegação é incrivelmente simples, e as páginas se adaptam perfeitamente a diferentes dispositivos. A organização do código reflete um trabalho cuidadoso e moderno, o que melhora a experiência de uso e agilidade.",
@@ -30,7 +30,7 @@ const avaliacoes = [
     },
     {
       id: 4,
-      nome: "Rafael Costa",
+      nome: "Rafaela Costa",
       cargo: "Analista de Sistemas",
       avaliacao: "Desempenho rápido e estrutura clara",
       descricao: "A estrutura do site é clara e fácil de entender, com foco em desempenho. As páginas respondem de forma rápida e sem atrasos. Além disso, o uso de tecnologias de ponta realmente garante a qualidade e a robustez do projeto.",
